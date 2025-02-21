@@ -11,7 +11,7 @@ import UserDetails from "./components/UserDetails";
 
 // const BASE_URL = "http://localhost:8080/";
 // const BASE_URL = "https://max-sandrine-auth-api.herokuapp.com/";
-const BASE_URL = "https://project-auth-518979433183.europe-north1.run.app";
+const BASE_URL = "https://project-auth-518979433183.europe-north1.run.app/";
 const SIGNUP_URL = `${BASE_URL}users`;
 const LOGIN_URL = `${BASE_URL}sessions`;
 
